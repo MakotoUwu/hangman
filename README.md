@@ -29,7 +29,7 @@ To use the Hangman Game, the following requirements must be met:
 5. The game will end when you either win by guessing the word correctly, lose by running out of attempts or if you enter quit.
 
 ## Timeline
-The project took approximately 6-7 hours to complete, including the design, implementation, and testing phases. It was developed as part of the AI Bootcamp at BeCode.org, with the aim of strengthening Python syntax and applying programming principles.
+The project took approximately 6-7 hours to complete, including the design, implementation, and testing phases. 
 
 ## Personal Situation
 This project was undertaken as part of the AI Bootcamp at BeCode.org. The bootcamp provides a comprehensive learning experience in AI concepts and programming. The Hangman Game project was a practical exercise to reinforce programming skills and showcase the application of basic principles and OOP concepts.
