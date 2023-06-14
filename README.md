@@ -1,13 +1,13 @@
 # Hangman Game
 
-```    _______
+      _______
      |/      |
      |      (_)
      |      \|/
      |       |
      |      / \
      | 
-_____|_____```
+_____|_____
 
 ## Description
 The Hangman Game is a classic word-guessing game implemented in Python. The goal of the game is to guess a hidden word by suggesting letters within a limited number of attempts. This project serves as an opportunity to reinforce programming principles such as loops, conditions, functions, and object-oriented programming (OOP) concepts.
