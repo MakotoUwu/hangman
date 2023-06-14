@@ -18,7 +18,7 @@ To use the Hangman Game, the following requirements must be met:
 
 1. Clone the repository or download the source code files.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the following command to start the game: ## python main.py
+3. Run the following command to start the game: python main.py
 
 ## Usage
 1. Upon running the game, you will be presented with a blank word representing the hidden word to be guessed and the number of remaining attempts.
